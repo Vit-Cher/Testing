@@ -1,4 +1,5 @@
-﻿using System;
+//РЕАЛИЗАЦИЯ ЗАДАЧИ КОМИВОЯЖЕРА НА С#
+using System;
 
 class Program
 {

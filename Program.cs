@@ -1,5 +1,4 @@
-//РЕАЛИЗАЦИЯ ЗАДАЧИ КОМИВОЯЖЕРА НА С#
-using System;
+﻿using System;
 
 class Program
 {
@@ -132,7 +131,8 @@ class Program
         {
             Console.Write(city + " ");
         }
-        Console.WriteLine("\n");
+        Console.WriteLine(startCity + "\n");
+        
     }
 }
 
